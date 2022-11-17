@@ -74,7 +74,7 @@
   },
   "homepage": "https://docs.yjs.dev",
   "dependencies": {
-    "lib0": "^0.2.49"
+    "lib0": "0.2.49"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
@@ -87,6 +87,6 @@
     "standard": "^16.0.4",
     "tui-jsdoc-template": "^1.2.2",
     "typescript": "^4.4.4",
-    "y-protocols": "^1.0.5"
+    "y-protocols": "https://github.com/kuldeep3/y-protocols.git#4397e70c471d32a446385f3a0138ec2b8669d151"
   }
 }
